@@ -1,6 +1,6 @@
 # Redux middleware
 
-This is redux middleware base on this tutorial (https://www.udemy.com/react-redux/learn/v4/t/lecture/5691842?start=975)
+This is redux middleware based on this tutorial (https://www.udemy.com/react-redux/learn/v4/t/lecture/5691842?start=975)
 
 ### Tools and Library
 - React
